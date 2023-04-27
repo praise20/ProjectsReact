@@ -15,6 +15,7 @@ function Header(){
       <ul>
         <li>Business Card: project to learn react basics <button><a  className='link'  href='https://profile-one-red.vercel.app/' target='_blank'>View</a></button></li>
         <li>Short stays website: projects focused on props and map() <button><a className='link' href='https://rentals-sooty.vercel.app' target='_blank'>View</a></button></li>
+        <li>Travel Bucketlist website: projects that's also focused on props and map() <button><a className='link' href='https://travel-sand-iota.vercel.app/' target='_blank'>View</a></button></li>
       </ul>
       </>
     )
